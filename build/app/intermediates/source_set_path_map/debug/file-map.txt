@@ -1,0 +1,12 @@
+com.example.capstone_project_category.app-debug-0 C:\Capstone Design\capstone_design\capstone_project_category\android\app\src\debug\res
+com.example.capstone_project_category.app-main-1 C:\Capstone Design\capstone_design\capstone_project_category\android\app\src\main\res
+com.example.capstone_project_category.app-pngs-2 C:\Capstone Design\capstone_design\capstone_project_category\build\app\generated\res\pngs\debug
+com.example.capstone_project_category.app-resValues-3 C:\Capstone Design\capstone_design\capstone_project_category\build\app\generated\res\resValues\debug
+com.example.capstone_project_category.app-rs-4 C:\Capstone Design\capstone_design\capstone_project_category\build\app\generated\res\rs\debug
+com.example.capstone_project_category.app-mergeDebugResources-5 C:\Capstone Design\capstone_design\capstone_project_category\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.capstone_project_category.app-mergeDebugResources-6 C:\Capstone Design\capstone_design\capstone_project_category\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.capstone_project_category.app-merged_res-7 C:\Capstone Design\capstone_design\capstone_project_category\build\app\intermediates\merged_res\debug
+com.example.capstone_project_category.app-jetified-annotation-experimental-1.1.0-8 C:\Users\황보성우\.gradle\caches\transforms-3\02315cc9f75263553d2042718fc375ee\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.capstone_project_category.app-jetified-window-1.0.0-beta04-9 C:\Users\황보성우\.gradle\caches\transforms-3\076eb9235982ee06112d76594ea8585f\transformed\jetified-window-1.0.0-beta04\res
+com.example.capstone_project_category.app-jetified-window-java-1.0.0-beta04-10 C:\Users\황보성우\.gradle\caches\transforms-3\99750bb863b6fe460a7b5da8686e778d\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.capstone_project_category.app-core-1.6.0-11 C:\Users\황보성우\.gradle\caches\transforms-3\d08c73bfb05384f2e52578171dbd141e\transformed\core-1.6.0\res

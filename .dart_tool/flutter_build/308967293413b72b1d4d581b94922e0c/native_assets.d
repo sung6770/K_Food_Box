@@ -1,0 +1,1 @@
+ C:\\Capstone\ Design\\capstone_design\\capstone_project_category\\.dart_tool\\flutter_build\\308967293413b72b1d4d581b94922e0c\\native_assets.yaml: 
