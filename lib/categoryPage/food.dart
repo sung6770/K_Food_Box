@@ -4,11 +4,12 @@ class Food {
   final String about;
   final String source;
   final String imageUrl;
-  final bool bookmark;
+  bool bookmark;
   final String ingredientList;
   final String recipeList;
 
   // ingredientList, recipeList DB에 어떻게 저장되냐에 따라 자료형 + 생성자 변경
+  // 수정 가능한 데이터는 final 제거
 
   Food.fromMap(Map<String, dynamic> map)
       : name = map['name'],
