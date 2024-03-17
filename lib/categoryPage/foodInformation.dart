@@ -3,6 +3,8 @@ import 'package:capstone_project_category/home/basicAppBar.dart';
 import 'package:capstone_project_category/home/bottom.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
+import 'package:http/http.dart' as http;
+import 'dart:convert';
 
 class FoodInformation extends StatefulWidget {
   const FoodInformation({super.key});
